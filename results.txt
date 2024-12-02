@@ -1,0 +1,3 @@
+Average: 20.0
+Comments: Хорошо | Неплохо | Может быть лучше.
+Error: None
